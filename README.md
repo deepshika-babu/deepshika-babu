@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)](https://deepshika-babu.io)
+![image](https://github.com/user-attachments/assets/9a35419d-1414-42b1-99ac-4801f62d7a6e)
+
 <h1 align="center">Hi 👋, I'm Deepshika.B</h1>
 <h3 align="center">A geeky and passionate Web Developer ;)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
